@@ -1,0 +1,2 @@
+torch @ file:///E:/MyStudyV2/cv/torch-1.13.1%2Bcu117-cp39-cp39-win_amd64.whl#sha256=e775fa85f412bd1bf816b8798dadb3b852b71e33e8008e9db29b6190ed94fe27
+typing_extensions==4.12.2
